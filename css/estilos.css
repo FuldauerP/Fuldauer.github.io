@@ -1,0 +1,164 @@
+
+
+
+.nav_1,
+.nav_2,
+.nav_3,
+.nav_4,
+.metodo_1,
+.metodo_2
+{
+    margin: auto;
+    text-decoration: solid;
+    text-justify: auto;
+    color: blueviolet;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+.nav_2_1,
+.nav_2_2,
+.nav_2_3
+{
+    text-align: center;
+    text-decoration: solid;
+    font-family: cursive;
+   color:blueviolet;
+    font-size: 10px;
+    font-weight: bold;
+
+}
+.acord_1,
+.acord_2
+{
+    text-decoration: solid;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#37703f;
+    font-weight: bold;
+    margin: auto;
+   
+    
+}
+.acord_3,
+.acord_4,
+.acord_5
+{
+    font-size: 15px;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+   
+}
+.gnr_1,
+.rl_1,
+.m_visa_1,
+.m_card_1
+{
+    text-align: center;
+    font-family:cursive;
+    font-size: 15px;
+    font-weight: bold;
+    color: crimson;
+}
+
+.s_nosotros,
+.kurt_c,
+.oasis_1,
+.g_cerati
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.s_nosotros_1,
+.kurt_c_1,
+.oasis_2,
+.g_cerati_1
+{
+ background-color: cornflowerblue;
+    text-align: justify;
+ text-align: center;
+ font-size: 15px;
+ 
+
+}
+
+
+.foot
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+.img_1,
+.img_2,
+.img_3,
+.img_4,
+.img_5,
+.img_6,
+.img_7,
+.img_8,
+.img_7_1,
+.img_8_1,
+.img_101,
+.img_102,
+.img_103,
+.img_104,
+.img_105,
+.img_106
+.acord_4,
+.acord_5,
+.acord_6,
+.acord_7,
+.s_nosotros,
+.s_nosotros_1,
+.kurt_c,
+.kurt_c_1,
+.oasis_1,
+.oasis_2,
+.g_cerati,
+.g_cerati_1,
+.foot,
+.col-sm-4 ,
+.acord_0,
+.img_0,
+.img_0_1,
+.img_0_2,
+.n_1,
+.n_2,
+.n_3,
+.n_4,
+.navb_1,
+.navb_2,
+.navb_3,
+.boton_1,
+.img_101
+
+
+
+
+
+{
+  
+    
+   margin: auto;
+    max-width: 640px;
+ 
+   
+
+  
+
+    
+  
+}
+
+
+
+
